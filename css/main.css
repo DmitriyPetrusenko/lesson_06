@@ -1,0 +1,14 @@
+body {
+	background-color: black;
+}
+.styles{
+position: fixed; 
+				bottom: 0px; 
+				right: 0px; 
+				width: 300px; 
+				height: 200px; 
+				overflow: auto; 
+				border: 2px solid red; 
+				padding: 10px; 
+				background-color: rgb(0, 0, 0);
+}
